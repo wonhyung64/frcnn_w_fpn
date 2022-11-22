@@ -1,1 +1,1 @@
-# frcnn_w_fpn
+# Faster R-CNN with FPN
